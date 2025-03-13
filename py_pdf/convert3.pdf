@@ -1,0 +1,13 @@
+from fitz import *
+
+# Open the file
+with open("lzvoyager-resume.pdf", "rb") as pdfFile:
+    ## Create a document object
+    doc = Document(stream=pdfFile)
+
+    ## Extract text from all pages
+    for page in doc:
+        print(page.getText())
+
+    ## Extract all text
+    print(doc.getText())

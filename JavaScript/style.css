@@ -1,0 +1,7 @@
+#output {
+  width: 300px; /* Adjust width as needed */
+  white-space: pre-wrap; /* Enable word wrapping */
+  word-break: break-all; /* Allow breaking of excessively long words */
+  border: 1px solid #ccc;
+  padding: 10px;
+}

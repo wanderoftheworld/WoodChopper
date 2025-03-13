@@ -16,9 +16,9 @@ def shortestPathBinaryMatrix(grid):
   q = deque([(0, 0, 0)]) 
   minPathLen = float('inf')
   while q:
-    start, end, level = q.popleft()
-    visited.add((start, end))
-    for ii, jj in get_clear_neighbors(start, end, n, grid):
+    row, col, level = q.popleft()
+    visited.add((row, col))
+    for ii, jj in get_clear_neighbors(row, col, n, grid):
       if (ii, jj) not in visited:
         q.append((ii, jj, level+1))
 

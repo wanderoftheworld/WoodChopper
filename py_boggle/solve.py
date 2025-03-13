@@ -199,7 +199,7 @@ with open('nwl2020.txt') as f:
 letter_points = {'b':4, 'c':4, 'd':2, 'f':4, 'g':3, 'h':2, 'j':10, 'k':4, 'l':2, 'm':2, 'n':2, 'p':4, 'q':10, 'u':2, 'v':4, 'w':4, 'x':8, 'y':3, 'z':10}
 wordln_points = {5:3, 6:6, 7:10, 8:15, 9:20}
 
-board = 'elassieptradtsbl'
+board = 'venseatilmreaiss'
 # DL: 2, TL: 3, DW: 4, TW: 9
 tiles = '1111111111111111'
 

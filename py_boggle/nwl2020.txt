@@ -20368,8 +20368,6 @@ brit
 britannia
 britannias
 britches
-brith
-briths
 brits
 britska
 britskas
@@ -34403,7 +34401,6 @@ contemplatively
 contemplatives
 contemplator
 contemplators
-contempo
 contemporaneity
 contemporaneous
 contemporaries
@@ -40440,8 +40437,6 @@ darnel
 darnels
 darner
 darners
-darnest
-darnests
 darning
 darnings
 darns
@@ -56180,10 +56175,6 @@ etches
 etching
 etchings
 eternal
-eternalise
-eternalised
-eternalises
-eternalising
 eternalities
 eternality
 eternalize
@@ -104439,8 +104430,6 @@ morelles
 morello
 morellos
 morels
-moreness
-morenesses
 moreover
 mores
 moresque
